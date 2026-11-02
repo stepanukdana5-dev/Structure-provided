@@ -1,0 +1,6 @@
+C:/Users/stepa/CLionProjects/untitled13/build/CMakeFiles/untitled13.dir
+C:/Users/stepa/CLionProjects/untitled13/build/CMakeFiles/edit_cache.dir
+C:/Users/stepa/CLionProjects/untitled13/build/CMakeFiles/rebuild_cache.dir
+C:/Users/stepa/CLionProjects/untitled13/build/lib/CMakeFiles/BankLibrary.dir
+C:/Users/stepa/CLionProjects/untitled13/build/lib/CMakeFiles/edit_cache.dir
+C:/Users/stepa/CLionProjects/untitled13/build/lib/CMakeFiles/rebuild_cache.dir
